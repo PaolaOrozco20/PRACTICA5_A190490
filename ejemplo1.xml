@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/Users/LENOVO/OneDrive/Documentos/PRACTICA%205/ejemplo1.xsl"?>
+<perros>
+  <perro>
+    <nombre>Chihuahua</nombre>
+    <habitad>Mexico</habitad>
+  </perro>
+  <perro>
+    <nombre>Pitbull</nombre>
+    <habitad>Estados unidos</habitad>
+  </perro>
+  <perro>
+    <nombre>Perro salchicha</nombre>
+    <habitad>Canadiense</habitad>
+  </perro>
+</perros>
